@@ -1,7 +1,7 @@
 # Lightning Fast React Apps
 
 ## Slides
-If you attended my talk at Agent Conf, and want to find the slides, you can check them out [here](https://speakerdeck.com/siakaramalegos/lightning-fast-react-apps). Here are all the extra resources I shared in that presentation:
+If you attended my talk at Agent Conf, and want to find the slides, you can check them out [here](https://speakerdeck.com/siakaramalegos/lightning-fast-react-agent). Here are all the extra resources I shared in that presentation:
 
 ## Resources
 

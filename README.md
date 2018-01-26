@@ -1,4 +1,10 @@
-# Lightning Fast React Apps
+# Lightning Fast React Apps (Conference Talk)
+
+App loading and run-time affect your bottom line. Fancy features aren’t worth anything if users leave the app out of frustration. Every second counts! React is super fast, but you could be shooting yourself in the foot with design decisions. Come learn how to make your React apps lightning fast!
+
+Page abandonment increases with every second of load time. Also, profiling and debugging performance issues can seem like an overwhelming topic to learn. In this session, we’ll cover the usual suspects of performance issues, from the basics of using the correct build, to the fundamentals of immutable data, to higher-level tools like Perf, shouldComponentUpdate, PureComponent, and memoizing computed props in Redux.
+
+We will both cover the concepts and walk through examples step-by-step so that by the end of this session you will feel like a React Speed Racer. You’ll get the most out of this session if you’re at least comfortable with React and ES6 syntax.
 
 ## Slides
 If you attended my talk at Agent Conf, and want to find the slides, you can check them out [here](https://speakerdeck.com/siakaramalegos/lightning-fast-react-agent). Here are all the extra resources I shared in that presentation:
@@ -47,5 +53,8 @@ Resouces linked in presented slides, but not in the resource list slide.
 - [Reselect npm package](https://github.com/reactjs/reselect), by the React Community 
 - [React/Redux Performance Tuning Tips](https://medium.com/@arikmaor/react-redux-performance-tuning-tips-cef1a6c50759) by Arik Maor
 
-## Social Media
+## Social Media & Speaking
+
 You can follow me on [Twitter](https://twitter.com/thegreengreek) and [Medium](https://medium.com/@thegreengreek)!
+
+Interested in having me speak at your event? Check out my [speaking history](https://github.com/siakaramalegos/sia_speaks) and/or my [website](https://siakaramalegos.github.io/).

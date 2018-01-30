@@ -7,7 +7,7 @@ Page abandonment increases with every second of load time. Also, profiling and d
 We will both cover the concepts and walk through examples step-by-step so that by the end of this session you will feel like a React Speed Racer. You’ll get the most out of this session if you’re at least comfortable with React and ES6 syntax.
 
 ## Slides
-If you attended my talk at Agent Conf, and want to find the slides, you can check them out [here](https://speakerdeck.com/siakaramalegos/lightning-fast-react-agent). Here are all the extra resources I shared in that presentation:
+If you attended my talk at Agent Conf, and want to find the slides, you can check them out [here](https://speakerdeck.com/siakaramalegos/lightning-fast-react-agent-conf). Here are all the extra resources I shared in that presentation:
 
 ## Resources
 
